@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/tp_note.dir/main.c.o  -o tp_note 

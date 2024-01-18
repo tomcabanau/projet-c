@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/to1ca/CLionProjects/char/main.c
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+
+/mnt/c/Users/to1ca/CLionProjects/cryptographie/main.c
+stdio.h
+-
+
+/mnt/c/Users/to1ca/CLionProjects/restaurant/main.c
+stdio.h
+-
+
+/mnt/c/Users/to1ca/CLionProjects/sudoku/main.c
+stdio.h
+-
+

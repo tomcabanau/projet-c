@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/aloc_memoire.dir/main.c.o CMakeFiles/aloc_memoire.dir/etudiant.c.o  -o aloc_memoire 

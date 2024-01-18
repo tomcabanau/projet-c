@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/CLionProjects.dir/char/main.c.o CMakeFiles/CLionProjects.dir/cryptographie/main.c.o CMakeFiles/CLionProjects.dir/restaurant/main.c.o CMakeFiles/CLionProjects.dir/sudoku/main.c.o  -o CLionProjects 
