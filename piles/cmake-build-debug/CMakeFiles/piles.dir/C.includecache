@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/element.h
+stdio.h
+-
+stdlib.h
+-
+
+/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/queue.c
+queue.h
+/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/queue.h
+stack.h
+/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/stack.h
+
+/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/queue.h
+element.h
+/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/element.h
+
+/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/stack.h
+element.h
+/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/element.h
+

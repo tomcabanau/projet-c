@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="piles"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="piles">
+				<Option output="/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/piles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 piles"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="piles/fast">
+				<Option output="/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/piles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 piles/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/element.c">
+			<Option target="piles"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/element.h">
+			<Option target="piles"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/main.c">
+			<Option target="piles"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/queue.c">
+			<Option target="piles"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/queue.h">
+			<Option target="piles"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/stack.c">
+			<Option target="piles"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/stack.h">
+			<Option target="piles"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/to1ca/Documents/GitHub/projet-c/piles/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

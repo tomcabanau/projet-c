@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/piles.dir/main.c.o CMakeFiles/piles.dir/stack.c.o CMakeFiles/piles.dir/element.c.o CMakeFiles/piles.dir/queue.c.o  -o piles 
